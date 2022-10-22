@@ -5,3 +5,5 @@
 !subdir/
 !scratch-simulator.cc
 !CMakeLists.txt
+
+!mixed-tcp-test.cc
